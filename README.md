@@ -4,14 +4,7 @@
 
 당신의 파이썬/장고 페이스메이커가 되겠습니다.
 
-+ Microsoft Azure MVP
++ me@pyhub.kr
++ [인프런 장고 지식공유자](https://www.inflearn.com/users/@askcompany)
 + [페이스북 그룹: Ask Company with Django/React](https://www.facebook.com/groups/askdjango)
     - 다양한 파이썬/크롤링/장고/리액트 질문 환영합니다. :-)
-+ Slack
-    - [초대장 받기](https://askcompany-kr.slack.com/join/shared_invite/zt-dyljnuxh-s_IBU5G42JCPWpDlmAgwuA)
-    - [Slack 주소](https://askcompany-kr.slack.com/)
-+ [<파이썬/장고 웹서비스 개발 완벽 가이드 with 리액트> 온라인 강의](https://www.inflearn.com/course/파이썬-장고-웹서비스?inst=6a0dda6d)
-    - 파이썬/장고/리액트의 탄탄한 시작을 도와드리겠습니다.
-
-me@askcompany.kr
-
